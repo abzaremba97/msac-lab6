@@ -57,5 +57,4 @@ A change is ready to be committed.
 
 12. How can you make a single file show in both red and green in the output of `git status`?
 
-
-If it is ready to be committed but has also been modified.
+Stage a file and then modify its contents.

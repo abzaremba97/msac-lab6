@@ -36,7 +36,13 @@
 
 10. Which of the steps could be omitted?
 
+You could omit git status and omit a commit message.
+
 11. Why might it be a bad idea to omit them?
+
+It is a bad idea to omit git status, because it helps ensure that you are aware of what files have been modified.
+
+Omitting a commit message is also a bad idea because it can cause confusion later if you forget what was changed.
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 

@@ -26,6 +26,10 @@
 
         git cat-file -t <hash>
 
+        commit
+
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
+
+Yes, three of the bottom text files have matching hashes while the top two do not.

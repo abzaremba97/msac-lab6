@@ -25,5 +25,8 @@
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
 
+Any amount of characters as long as it is unique to that respository.
+
 8. How can you show just the last three commit messages?
 
+git log -n 3

@@ -14,6 +14,7 @@
 
 4. Why did we use the `--global` flag?  (What does that do?)
 
+It allows Git to read and write to the file.
 
 5. Check your git config to show the changes you have made
 
